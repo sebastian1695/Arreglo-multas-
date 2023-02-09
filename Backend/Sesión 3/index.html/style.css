@@ -1,0 +1,22 @@
+.Header{
+    color: bisque;
+    width:100%;
+    background-color: darkgray;
+    border-color: black;
+    border: 1px  solid;
+}
+
+body{
+background-color:red;
+background-image: url(https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/6.svg);
+background-repeat: no-repeat;
+}
+button {
+    background-color:whitesmoke;
+    font-family: sans-serif;
+}
+ 
+button:hover{
+    background-color :darkgray;
+    cursor :pointer;
+}   

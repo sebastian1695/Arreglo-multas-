@@ -1,0 +1,19 @@
+<html>
+    <table>
+        <caption> Breve texto explicativo</caption>
+        <thead>
+            <TR>
+                <TH>tipo Dato A</TH>
+                <TH>tipo Dato B</TH>
+                <TH>tipo Dato C</TH>
+            </TR>
+        </thead>
+    </table>
+    <tbody>
+<tr>
+    <td>A</td>
+    <td>B</td>
+    <td>c</td>
+</tr>
+    </tbody>
+</html>
